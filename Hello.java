@@ -1,7 +1,7 @@
-public class Hello{ 
-public static void main (String ars[] ) 
+class Hello{ 
+public static void main (String args[] ) 
 { 
-System out println (“Hello”) 
-System.out.println( “Thank You from jenkins”)
+System.out.println(“Hello”); 
+System.out.println( “Thank You from jenkins”);
 }
 }
