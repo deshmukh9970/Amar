@@ -4,4 +4,4 @@ class Hello
     {
         System.out.println("My First Java Program.");
     }
-};
+}
